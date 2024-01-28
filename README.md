@@ -18,7 +18,7 @@ This readme provides instructions on how to use the provided Python script for H
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/eyobbokru/hennge-challenge-003.git
+    git clone https://github.com/eyobbokru/hennge-challenge-003-submission.git
     ```
 
 2. **Navigate to the project directory:**
